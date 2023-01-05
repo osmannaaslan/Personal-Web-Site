@@ -33,4 +33,5 @@ Good Coding and Good Luck!
 
 </p>
 
-[url=https://www.hizliresim.com/6e8ulch][img]https://i.hizliresim.com/6e8ulch.PNG[/img][/url]
+<img src="[ornek.jpg](https://www.hizliresim.com/6e8ulch)" alt="Örnek Resim"/>
+=https://www.hizliresim.com/6e8ulch][img]https://i.hizliresim.com/6e8ulch.PNG[/img]
