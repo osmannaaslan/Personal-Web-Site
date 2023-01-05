@@ -33,5 +33,5 @@ Good Coding and Good Luck!
 
 </p>
 
-<img src="[[ornek.jpg](https://www.hizliresim.com/6e8ulch)](https://www.hizliresim.com/6e8ulch)" alt="Örnek Resim"/>
+<img src="https://www.hizliresim.com/6e8ulch" alt="Örnek Resim"/>
 
