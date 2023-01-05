@@ -9,8 +9,10 @@ HTML ve CSS kullanılarak yazılmış basit bir Web Sitesi oluşturdum.
 Anlaşılır bir yapıya sahip olduğundan kolaylıkla kendinize göre düzenleyebilir kullanabilirsiniz.
 
 Ayrıca Javascript veya JQuery Kullanarak Kendinizce Düzenleyebilirsiniz.
+  
+Web Sitesinin Görünümü Aşağıdadır.
 
-İyi kodlamalar.
+İyi kodlamalar ve İyi Şanslar!
 
 </p>
 
@@ -25,6 +27,10 @@ Since it has an understandable structure, you can easily edit it according to yo
 
 You Can Also Edit Your Own Using Javascript or JQuery.
 
-Good coding.
+The View of the Website is Below for You.
+  
+Good Coding and Good Luck!
 
 </p>
+
+[url=https://www.hizliresim.com/6e8ulch][img]https://i.hizliresim.com/6e8ulch.PNG[/img][/url]
