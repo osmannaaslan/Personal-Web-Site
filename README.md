@@ -32,5 +32,5 @@ The View of the Website is Below for You.
 Good Coding and Good Luck!
 
 </p>
+![alt text]((https://github.com/osmannaaslan/Personal-Web-Site/issues/1#issue-1521250302))
 
-<img src="[https://www.hizliresim.com/6e8ulch](https://i.hizliresim.com/6e8ulch.PNG)" alt="Örnek Resim"/>
