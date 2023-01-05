@@ -32,7 +32,5 @@ The View of the Website is Below for You.
 Good Coding and Good Luck!
 
 </p>
-![](https://user-images.githubusercontent.com/77297222/210861263-31bd76d6-ebf1-498f-b3b6-b4758b27901a.PNG)
-
 
 ![image](https://github.com/osmannaaslan/Personal-Web-Site/issues/1#issue-1521250302) **Web Site Image**
